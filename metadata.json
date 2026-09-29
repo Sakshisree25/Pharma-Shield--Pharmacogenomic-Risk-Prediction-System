@@ -1,0 +1,6 @@
+{
+  "name": "PharmaGuard AI",
+  "description": "Revolutionizing Drug Safety Through Genetic Intelligence - AI-powered pharmacogenomic risk prediction platform analyzing genomic data to deliver personalized medication safety insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
